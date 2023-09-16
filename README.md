@@ -27,6 +27,8 @@ Archived repositories are from my past interest for reinforcement learning.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://dagster.io/images/brand/logos/dagster-primary-mark.svg" height="50" alt="dagster logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />

@@ -1,15 +1,15 @@
 ## Hi 👋 My name is Anaëlle Laurans
 
-### Data engineer @ Wefox
+### Lead Data engineer @ Wefox
 
-I started my career in data science and machine learning. but I wanted to be more on the technical side. So now I am working as data engineer. 
+I started my career in data science and machine learning. but I wanted to be more on the technical side. So now I am working as lead data engineer. 
 
-Archived repositories are from my past interest for reinforcement learning.
+Archived repositories are from my past interests for reinforcement learning.
 
-- 🌍  I'm based in France
-- 🚀  I'm currently working on a data engineering sandbox to try and experiments with data tools.
-- 🎯  My goals are to deliver good quality data on which people can trust, and to automate repeting things I do in my life of developer
-- 🌱 I’m currently learning Scala <img src="https://cdn.simpleicons.org/scala/DC322F" height="20" alt="scala logo"  />
+- 🌍 I'm based in France
+- 🚀 I'm currently working on a data engineering sandbox to try and experiments with data tools.
+- 🎯 My goals are to deliver good quality data on which people can trust, and to automate repeting things I do in my developer's life
+- 🌱 I’m currently learning Rust  <img src="https://cdn.simpleicons.org/rust"  height="20" alt="kubernetes logo"  /> and Scala <img src="https://cdn.simpleicons.org/scala/DC322F" height="20" alt="scala logo"  />
 
 ### Skills
 
@@ -44,6 +44,8 @@ Archived repositories are from my past interest for reinforcement learning.
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/carnarez/polars-static/master/logos/polars-logo-dimmed.svg" height="40" alt="polars logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rust"  height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS" />
 </div>

@@ -9,7 +9,7 @@ Archived repositories are from my past interests for reinforcement learning.
 - 🌍 I'm based in France
 - 🚀 I'm currently working on a data engineering sandbox to try and experiments with data tools.
 - 🎯 My goals are to deliver good quality data on which people can trust, and to automate repeting things I do in my developer's life
-- 🌱 I’m currently learning Rust  <img src="https://cdn.simpleicons.org/rust"  height="20" alt="kubernetes logo"  /> and Scala <img src="https://cdn.simpleicons.org/scala/DC322F" height="20" alt="scala logo"  />
+- 🌱 I’m currently learning Rust  <img src="https://cdn.simpleicons.org/rust"  height="20" alt="kubernetes logo"  />
 
 ### Skills
 

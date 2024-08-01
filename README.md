@@ -1,8 +1,8 @@
 ## Hi 👋 My name is Anaëlle Laurans
 
-### Lead Data engineer @ Wefox
+### Data engineer 
 
-I started my career in data science and machine learning. but I wanted to be more on the technical side. So now I am working as lead data engineer. 
+I started my career in data science and machine learning. but I wanted to be more on the technical side. So now I am working as data engineer. 
 
 Archived repositories are from my past interests for reinforcement learning.
 
